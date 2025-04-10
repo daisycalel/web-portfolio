@@ -1,0 +1,12 @@
+* {
+    background-color: #EADEE1;
+}
+
+/* name title */
+h1 {
+    text-align: center;
+    padding: 250px 0;
+    font-family: "Meow Script", cursive;
+    font-size: 8vw;
+    color: #4A4A4A;
+}
