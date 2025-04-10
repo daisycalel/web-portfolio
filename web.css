@@ -5,8 +5,14 @@
 /* name title */
 h1 {
     text-align: center;
-    padding: 250px 0;
+    padding-top: 250px;
     font-family: "Meow Script", cursive;
     font-size: 8vw;
     color: #4A4A4A;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size:x-large;
 }
